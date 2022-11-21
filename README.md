@@ -61,7 +61,7 @@ Pertemuan-pertemuan G20 di Indonesia juga menjadi sarana untuk memperkenalkan pa
 
             </div>
             <div class="col-md-4 py-5">
-                <img class="w-100" src=logo-G20-dalam-aplikasi-dengan-latar-belakang.png >
+                <img class=1o-G20-dalam-aplikasi-dengan-latar-belakang.p
             </div>
         </div>
     </main>
